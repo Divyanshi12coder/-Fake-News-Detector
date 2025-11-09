@@ -45,6 +45,3 @@ fake-news-detection/
 
 
 ```
-
-
-
