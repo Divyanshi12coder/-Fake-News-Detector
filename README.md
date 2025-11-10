@@ -1,4 +1,4 @@
-# 📰 Fake News Detection
+# 📰 Fake News Detection.
 
 ## 📌 Overview
 This project aims to detect fake news articles using Natural Language Processing (NLP) and machine learning techniques. By analyzing text patterns and metadata, the model classifies news as either **real** or **fake**, helping combat misinformation in digital media.
