@@ -43,5 +43,7 @@ fake-news-detection/
 - PassiveAggressiveClassifier showed strong performance on imbalanced data
 - Model interprets key words contributing to classification
 
+## Deployment
+-http://localhost:3000
 ----
 
